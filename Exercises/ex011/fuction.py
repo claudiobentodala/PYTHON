@@ -1,4 +1,4 @@
 def anytheng (name):
-    print(f"Hello {name}")
-name=input("Name: \n")
-anytheng(name)
+    return name
+name_=input("Name: ")
+print(f" Hello {anytheng(name_)}")

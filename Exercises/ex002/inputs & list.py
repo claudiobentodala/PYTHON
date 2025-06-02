@@ -7,5 +7,3 @@ print(stock)
 stock.remove(input("Input now:"))
 print(stock)
 print(stock.count(input("Count repeat:")))
-
-
